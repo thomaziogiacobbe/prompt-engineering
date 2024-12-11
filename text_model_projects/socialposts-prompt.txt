@@ -1,0 +1,42 @@
+Write a social media post for LinkedIn, in the style of malcolm gladwell, using the Bait-Hook-Reward-Payload framework:
+
+- **Payload:** An important brand association or valuable call-to-action. Is there a clear message you want them to remember, or commercially desirable action you want them to take?
+- **Bait**: Grab the attention of the person browsing social media. This could be a contrarian statement, appeal to identity, celebrity name, or anything else that stops them scrolling.
+- **Hook**: Keep their attention now you have it. Show this post is relevant to them, by alerting them to an issue, using familiar words, or providing social proof to keep them reading.
+- **Reward**: Compensate them for their attention to elicit reciprocation. Is there any useful information, a surprising statistic, or an interesting anecdote to reveal? Or a threat to make?
+
+Instructions:
+You will be provided with a Payload. First decide on the Bait, Hook, and Reward, before writing a social post for {social_network} that sounds authentically human and extremely detailed. 
+To maximize engagement, the content should be surprising, interesting, or practically useful, or induce high-arousal emotions such as anxiety, anger, awe, or surprise. 
+Follow best practices for posting engaging content on LinkedIn, but do not use emoji or hashtags.
+
+### Charitable Donations:
+- **Payload**: Motivate people to sponsor us for running the london marathon to save the whales, some species of which are in danger of going extinct.
+- **Bait**: People who care about whales or animals will pay attention when whales are mentioned.
+- **Hook**: If we refer to the whales as “in danger” people who care will want to know more.
+- **Reward**: Some species of whales are going extinct, and people would benefit from knowing.
+- **Post**: The whales are in danger of extinction. Many people aren't aware, which is why it's so important to bring awareness to this cause. Together with a few colleagues, we'll be running the London marathon next week in aid of the "Save the Whales" foundation, and any support would be appreciated.
+
+### Hotel Recruitment:
+- **Payload**: Get people to associate our hotel with smart people who need a temporary job to fund their interests.
+- **Bait**: Use the trope that smart people are so focused they fail to look after themselves.
+- **Hook**: Particle Physics is a subject that is universally associated with smart people.
+- **Reward**: Fantasizing about being somewhere remote where you can earn money while focusing on your work.
+- **Post**: Meet Jon. He has been working the night shift at our hotel for over a month already, and he says the best part is the peace and quiet. Particle physics, which is the topic of Jon’s Masters Thesis, requires concentration. That’s fine by us. So long as our guests can count on Jon, he can count all the particles he wants (or whatever it is that particle physicists do).
+
+### Travel Sponsorship:
+- **Payload**: Position myself as a positive travel influencer with potential sponsors using the idea that there’s no such thing as a bad experience traveling. Every disaster has a silver lining.
+- **Bait**: Mentioning a ‘wasted trip’ will get the attention of people who like to travel, and for whom wasting a trip would be upsetting.
+- **Hook**: Talk about a rainy day in a hot location like Kauai, which most people would complain about because they’re wasting time inside.
+- **Reward**: An anecdote that reveals that good things can happen when you least expect them.
+- **Post**: *There’s no such thing as a wasted trip! On this rainy day in Kauai 2 years ago I met my bestie @moniqueontour and we’ve been on 4 amazing adventures together since.*
+
+### Thought Leadership:
+- **Payload**: Convince people they don’t have to do networking if they don’t like it: I built a blog for my agency business that drove 60% of our leads.
+- **Bait**: Most self-help advice focuses on fixing weaknesses, but instead let’s focus on how to reframe weaknesses into strengths.
+- **Hook**: We need to make it clear this post is for business owners, and that you are speaking from experience, establishing connection and credibility.
+- **Reward**: The fact that 60% of new business came from the blog is a statistic they can take away and use as evidence to support their own strategy, or to share with their wider network.
+- **Post**: Don’t try to mold yourself into the person you think your business needs you to be, build your business around who you actually are. When I started my agency business, I hated networking. I’m introverted by nature  so I wrote blog posts instead – eventually 60% of my agency’s new business came from our blog.
+
+### Thought Leadership:
+- **Payload**: From star wars to harry potter, the lion king and lord of the rings, all the top blockbusters use the same story template called “the hero’s journey”. There are many more examples. Finding these examples is something I cover in my book "Marketing Memetics".
